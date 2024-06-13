@@ -16,7 +16,7 @@ Download the Dataset: Ensure you have downloaded the IMDb dataset and saved it t
 
 Run the Script: Execute the sentiment_analysis.py script to train the models and evaluate their performance.
 
-```bash
+bash
 python sentiment_analysis.py
 
 Predict Sentiment: After training, you can use the trained models to predict the sentiment of user-provided movie reviews.
