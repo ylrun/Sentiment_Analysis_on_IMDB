@@ -11,7 +11,7 @@ pip install numpy pandas matplotlib scikit-learn nltk
 
 
 
-How to Run the Project
+### How to Run the Project
 Download the Dataset: Ensure you have downloaded the IMDb dataset and saved it to your desired directory. Update the path to the dataset in the script accordingly.
 
 Run the Script: Execute the sentiment_analysis.py script to train the models and evaluate their performance.
